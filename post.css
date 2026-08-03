@@ -1,0 +1,16 @@
+h2{
+    margin-top: 40px;
+}
+.workWrap{
+    display: flex;
+    flex-direction: column;
+}d
+.postWrap{
+    display: flex;
+    width: 267px;
+    height: 587px;
+    gap: 80px;
+}
+.work{
+    font-size: 70px;
+}
